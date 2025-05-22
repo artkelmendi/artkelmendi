@@ -57,7 +57,6 @@
 ## 🚧 **Current Project**
 
 I'm currently working on a full-stack financial management system built with `.NET` and `React (TypeScript)`.  
-**Stay tuned and check my repositories regularly!**
 
 ---
 
@@ -65,4 +64,4 @@ I'm currently working on a full-stack financial management system built with `.N
   <img src="https://komarev.com/ghpvc/?username=artkelmendi&style=for-the-badge&color=brightgreen" alt="profile views counter"/>
 </p>
 
-<p align="center">✨ <b>Feel free to reach out! Let's build something awesome together.</b> ✨</p>
+<p align="center"><b>Feel free to reach out!</b></p>
